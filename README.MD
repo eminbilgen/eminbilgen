@@ -18,7 +18,6 @@
     <a href="" target="_blank"><img src="" width="30px" heigth= "30px" /></a>
     <a href="" target="_blank"><img src="" width="30px" heigth= "30px" /></a>
     <a href="" target="_blank"><img src="" width="30px" heigth= "30px" /></a>
-    <a href="" target="_blank"><img src="" width="30px" heigth= "30px" /></a>
     <a href="https://open.spotify.com/user/31phsfdyusbnalmkc73vn64njgd4" target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/apps-8/64/spotify-apps-platform-512.png" width="30px" heigth= "30px" /></a>
     <a href="" target="_blank"><img src="" width="30px" heigth= "30px" /></a>
 </div>
