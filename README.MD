@@ -1,5 +1,5 @@
 # "Selam" dostlar! eminbilgen burada! 
-## Bu readme dosyası [Tantoony](https://github.com/Tantoony "Tantoony") kullanıcısından alınmıştır.
+### Bu readme dosyası [Tantoony](https://github.com/Tantoony "Tantoony") kullanıcısından alınmıştır.
 
 |||
 |-|-|
