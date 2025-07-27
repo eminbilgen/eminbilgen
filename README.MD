@@ -2,6 +2,7 @@
 ### Bu readme dosyası [Tantoony](https://github.com/Tantoony "Tantoony") kullanıcısından alınmıştır.
 
 |||
+|-|-|
 | Languages that I can speak:	| English, Turkish 	|
 | I do my best with: 			|![Nginx](https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/nginx-22.png) ![Javascript](https://cdn4.iconfinder.com/data/icons/scripting-and-programming-languages/512/js-22.png) ![NodeJS](https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/node-dot-js-22.png) ![NPM](https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/npm-22.png) ![ReactJS](https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/react-22.png) ![html](https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/html5-22.png) ![css](https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/css3-22.png) |
 |Stalk count:					|	![counter](https://profile-counter.glitch.me/{eminbilgen}/count.svg)
