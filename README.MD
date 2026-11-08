@@ -51,6 +51,20 @@
       <a href="https://status.bilgen.dev"><img src="assets/statusboard.jpg" alt="The status page showing all systems operational" width="100%"></a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/eminbilgen/imgserve">imgserve</a></h3>
+      <p>Resize, crop and convert images on the fly with one PHP file. WebP output, disk cache, ETag and path-traversal protection. No Composer, no framework.</p>
+      <p><a href="https://img.bilgen.dev"><b>Try it live →</b></a></p>
+      <a href="https://img.bilgen.dev"><img src="assets/imgserve.png" alt="imgserve: resize images on the fly" width="100%"></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/eminbilgen/liquid-transitions">liquid-transitions</a></h3>
+      <p>WebGL image transitions in one file: liquid, ripple and dissolve. No dependencies.</p>
+      <p><a href="https://liquid.bilgen.dev"><b>See it live →</b></a></p>
+      <a href="https://liquid.bilgen.dev"><img src="assets/liquid-transitions.png" alt="liquid-transitions: images flowing into each other" width="100%"></a>
+    </td>
+  </tr>
 </table>
 
 <sub>More tools on the way.</sub>
