@@ -17,10 +17,16 @@
 
 ## 🛠 What I build
 
-| | |
-|---|---|
-| 🎨 **Web experiences**<br>React, vanilla JavaScript, WebGL. Motion-led interfaces that feel like products, not templates. | ⚙️ **Back ends**<br>PHP and Python APIs, admin panels, image pipelines and CDNs. |
-| 💳 **Payment infrastructure**<br>Multi-chain checkout, merchant ledgers and sweeps. | 📡 **Infrastructure**<br>Self-run hosting, mail (SPF, DKIM, DMARC), DNS and TLS. |
+<table>
+  <tr>
+    <td width="50%" valign="top">🎨 <b>Web experiences</b><br>React, vanilla JavaScript, WebGL. Motion-led interfaces that feel like products, not templates.</td>
+    <td width="50%" valign="top">⚙️ <b>Back ends</b><br>PHP and Python APIs, admin panels, image pipelines and CDNs.</td>
+  </tr>
+  <tr>
+    <td valign="top">💳 <b>Payment infrastructure</b><br>Multi-chain checkout, merchant ledgers and sweeps.</td>
+    <td valign="top">📡 <b>Infrastructure</b><br>Self-run hosting, mail (SPF, DKIM, DMARC), DNS and TLS.</td>
+  </tr>
+</table>
 
 ## 🧰 Stack
 
